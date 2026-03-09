@@ -37,7 +37,7 @@ brew install pipx
 2. Clone this repo:
 
 ``` shell
-git clone [tktk]
+git clone https://github.com/vmbr309/sync-notes.git 
 ```
 
 3. CD into the cloned repo and run PIPX Install
