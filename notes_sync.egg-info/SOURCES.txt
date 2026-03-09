@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+notes_sync/__init__.py
+notes_sync/cli.py
+notes_sync.egg-info/PKG-INFO
+notes_sync.egg-info/SOURCES.txt
+notes_sync.egg-info/dependency_links.txt
+notes_sync.egg-info/entry_points.txt
+notes_sync.egg-info/top_level.txt

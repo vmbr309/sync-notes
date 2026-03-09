@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: notes-sync
+Version: 0.1.0
+Summary: CLI tool to sync a notes git repository
+Author: Your Name
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# notes-sync
+
+A CLI tool to sync a notes repository automatically.
+
+Features:
+- git pull
+- auto stage changes
+- timestamped commits
+- git push
+- optional Skate config
+
+Built with ChatGPT (for now)

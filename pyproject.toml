@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "notes-sync"
+version = "0.1.0"
+description = "CLI tool to sync a notes git repository"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+  {name = "Your Name"}
+]
+
+dependencies = []
+
+[project.scripts]
+notes-sync = "notes_sync.cli:main"
